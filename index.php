@@ -11,14 +11,10 @@
       @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
     </style>
     <title>SUSTENTABIO</title>
-
   </head>
 
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-
-    
-   
     <div class="container">
     <a class="img navbar-brand" href="#"><img src="./img/logo.png" class="d-block w-100" alt=".." width="128" height="128">
       </a>

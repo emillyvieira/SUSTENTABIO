@@ -8,15 +8,19 @@ section.carousel {
 }
 
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family:'Montserrat', sans-serif;
     font-weight: bold;
 }
 
 .navbar {
-    height: 100px;
-    font-size: medium;
+    height: 150px;
     color: #506266;
-    
+
+}
+
+.titlee {
+    font-family: 'Dancing Script';
+    font-size :xx-large
 }
 
 .navbar-brand{
@@ -95,3 +99,4 @@ h3 {
     color:#359721;
     font-weight: bolder;
 }
+

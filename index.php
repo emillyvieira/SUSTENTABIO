@@ -61,8 +61,8 @@
         </li>
         </ul>
         <form class="d-flex">
-          <input class="form-control me-2" type="search" placeholder="O que você procura?" aria-label="Search" style="background-color= rgb(48, 29, 48); height:40px; border: 1px solid gainsboro;">
-          <button class="btn btn-outline-success" type="submit" style="background-color: #dcdcdc; border: 1px solid gainsboro; color:rgb(48, 29, 48);"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16" style="color:gray">
+          <input class="form-control me-2" type="search" placeholder="O que você procura?" aria-label="Search" style="background-color= rgb(48, 29, 48); height:40px; border-radius:25px; border: 1px solid gainsboro;">
+          <button class="btn btn-outline-success" type="submit" style="background-color: none; border-radius:25px; border: 0px solid gainsboro; color:rgb(48, 29, 48);"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16" style="color:gray">
           <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
             </svg></button>
         </form>

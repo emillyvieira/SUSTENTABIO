@@ -13,7 +13,7 @@
       @import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
       @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
     </style>
-    <title>SUSTENTABIO - eco</title>
+    <title>SUSTENTABIO</title>
   </head>
 
   <body>

@@ -94,7 +94,6 @@ a {
 
 div.ws {
     text-align: left;
-
 }
 
 .fr {
@@ -105,7 +104,6 @@ div.ws {
     margin-left: auto;
     margin-right: auto;
     color: white;
-
 }
 
 h3 {
@@ -117,3 +115,10 @@ h3 {
     background-color: rgb(248, 248, 238);
 }
 
+.equipe {
+    padding: 40px;
+}
+
+.card {
+    align-content: center;
+}

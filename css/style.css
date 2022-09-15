@@ -119,6 +119,6 @@ h3 {
     padding: 40px;
 }
 
-.card {
-    align-content: center;
+.card-body {
+    font-family: 'Encode Sans Condensed', sans-serif;
 }

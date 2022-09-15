@@ -9,6 +9,7 @@
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;1,100;1,200;1,300&display=swap');
       @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Condensed:wght@200&display=swap');
     </style>
 
     <title>Copos - SUSTENTABIO</title>
@@ -73,33 +74,35 @@
     </br>
     <div class="container">
       <div class="row">
-        <div class="col-md-6">
-          <div class="card mb-3" style="">
+        <div class="col-md-6 align-center">
+          <div class="card mb-3">
             <div class="row g-0 ">
               <div class="col-md-4">
-                <img src="..." class="img-fluid rounded-start" alt="...">
+                <img src="../img/grupo/dyamine.jfif"  width="260" height="180" class="img-fluid rounded-start" alt="...">
               </div>
               <div class="col-md-8">
                 <div class="card-body">
-                  <h5 class="card-title">Card title</h5>
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                  <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                  <h5 class="card-title">Dyamine de Oliveira Gonzales</h5>
+                  <p class="card-text"><small class="text-muted">Marketing</small></p>
+                  <p class="card-text">Dyamine is the marketing producer for Sustentabio, who has been in this project since the beginning of 2022, studied at the Federal Institute of São Paulo, and it was there that this whole project started, she is a patient and hardworking person with this project.</p>
                 </div>
               </div>
             </div>
           </div>
-        </div> 
+        </div>
+      </div>
+      <div class="row">
         <div class="col-md-6">
-          <div class="card mb-3" style="">
+          <div class="card mb-3">
             <div class="row g-0 ">
               <div class="col-md-4">
-                <img src="..." class="img-fluid rounded-start" alt="...">
+                <img src="../img/grupo/emilly.jfif" width="600" height="400" class="img-fluid rounded-start" alt="...">
               </div>
               <div class="col-md-8">
                 <div class="card-body">
-                  <h5 class="card-title">Card title</h5>
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                  <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                  <h5 class="card-title">Emilly S. Vieira S.</h5>
+                  <p class="card-text"><small class="text-muted">DEV</small></p>
+                  <p class="card-text">Emilly  is a student at the Federal Institute of São Paulo. In this project, her function is to be the director of programming, taking care of the creation of our site, called Sustentabio. She loves design and, for this reason, she worked hard to make our project come true.</p>
                 </div>
               </div>
             </div>
@@ -111,12 +114,12 @@
           <div class="card mb-3" style="max-width: 540px;">
             <div class="row g-0 ">
               <div class="col-md-4">
-                <img src="..." class="img-fluid rounded-start" alt="...">
+                <img src="../img/grupo/emilly.jfif" class="img-fluid rounded-start" alt="...">
               </div>
               <div class="col-md-8">
                 <div class="card-body">
                   <h5 class="card-title">Card title</h5>
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                  <p class="card-text">Dyamine is the marketing producer for Sustentabio, who has been in this project since the beginning of 2022, studied at the Federal Institute of São Paulo, and it was there that this whole project started, she is a patient and hardworking person with this project.</p>
                   <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                 </div>
               </div>
@@ -127,7 +130,7 @@
           <div class="card mb-3" style="max-width: 540px;">
             <div class="row g-0 ">
               <div class="col-md-4">
-                <img src="..." class="img-fluid rounded-start" alt="...">
+                <img src="../img/grupo/emilly.jfif" class="img-fluid rounded-start" alt="...">
               </div>
               <div class="col-md-8">
                 <div class="card-body">
@@ -140,10 +143,10 @@
           </div>
         </div>
         <div class="col-md-4">
-          <div class="card mb-3" style="max-width: 540px;">
+          <div class="card mb-3" style="">
             <div class="row g-0 ">
               <div class="col-md-4">
-                <img src="..." class="img-fluid rounded-start" alt="...">
+                <img src="../img/grupo/emilly.jfif" class="img-fluid rounded-start" alt="...">
               </div>
               <div class="col-md-8">
                 <div class="card-body">

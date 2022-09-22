@@ -38,7 +38,7 @@
           </li>
           
           <li class="nav-item">
-            <a class="nav-link" href="../paginas/sustentabilidade.php">Sustentabilidade</a>
+            <a class="nav-link" href="../index.php#sust">Sustentabilidade</a>
           </li>
           <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -69,104 +69,16 @@
     </div>
   </nav>
 
-  <section class="equipe" >
-    <h2 style="padding-left:70px">Equipe SustentaBio</h2>
-    </br>
+  <section class="sustentabilidade">
+    <h2>Sustentabilidade</h2>
     <div class="container">
-      <div class="row">
-        <div class="col-md-6">
-          <div class="card mb-3" style="width:700px">
-            <div class="row g-0 ">
-              <div class="col-md-4">
-                <img src="../img/grupo/lara.jfif"  width="260" height="180" class="img-fluid rounded-start" alt="...">
-              </div>
-              <div class="col-md-8">
-                <div class="card-body">
-                  <h5 class="card-title">Lara Endy da Costa de Sá</h5>
-                  <p class="card-text"><small class="text-muted">Manager</small></p>
-                  <p class="card-text">Lara is a Computer Science student at the Federal Institute of Education, Science and Technology of São Paulo - Campus Caraguatatuba. She is currently 17 years old and holds the position of process manager for the SUSTENTABIO website. Passionate about the literary world, she has romance and suspense as her favorite genres. His main goal in adulthood is to attend law school and excel in his professional field, as well as making those he loves proud.</p>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="container">
                 </div>
-              </div>
             </div>
-          </div>
         </div>
-      </div>
-      <div class="row">
-        <div class="col-md-6">
-          <div class="card mb-3" style="width:700px">
-            <div class="row g-0 ">
-              <div class="col-md-4">
-                <img src="../img/grupo/barbara.jfif"  width="260" height="180" class="img-fluid rounded-start" alt="...">
-              </div>
-              <div class="col-md-8">
-                <div class="card-body">
-                  <h5 class="card-title">Barbara Coutinho Soares</h5>
-                  <p class="card-text"><small class="text-muted">Accounting Finance</small></p>
-                  <p class="card-text">Barbara is a third-year student of the IT technical course integrated into high school at the Federal Institute of São Paulo - Campus Caraguatatuba. She is currently 17 years old and works with accounting finance at the company SUSTENTABIO. Barbara thinks of big plans for the future with personal and professional achievements. She loves spending her free time with her family and friends, especially playing basketball and volleyball.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-6">
-          <div class="card mb-3" style="width:700px">
-            <div class="row g-0 ">
-              <div class="col-md-4">
-                <img src="../img/grupo/dyamine.jfif"  width="260" height="180" class="img-fluid rounded-start" alt="...">
-              </div>
-              <div class="col-md-8">
-                <div class="card-body">
-                  <h5 class="card-title">Dyamine de Oliveira Gonzales</h5>
-                  <p class="card-text"><small class="text-muted">Marketing</small></p>
-                  <p class="card-text">Dyamine is the marketing producer for Sustentabio, who has been in this project since the beginning of 2022, studied at the Federal Institute of São Paulo, and it was there that this whole project started, she is a patient and hardworking person with this project.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-6">
-          <div class="card mb-3" style="width:700px">
-            <div class="row g-0 ">
-              <div class="col-md-4">
-                <img src="../img/grupo/emilly.jfif"  width="260" height="180" class="img-fluid rounded-start" alt="...">
-              </div>
-              <div class="col-md-8">
-                <div class="card-body">
-                  <h5 class="card-title">Emilly S. Vieira Santana</h5>
-                  <p class="card-text"><small class="text-muted">DEV</small></p>
-                  <p class="card-text">Emilly Vieira is a student at the Federal Institute of São Paulo. In this project, her function is to be the director of programming, taking care of the creation of our site, called Sustentabio. She loves design and, for this reason, she worked hard to make our project come true.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-6">
-          <div class="card mb-3" style="width:700px">
-            <div class="row g-0 ">
-              <div class="col-md-4">
-                <img src="../img/grupo/isabella.jfif"  width="260" height="180" class="img-fluid rounded-start" alt="...">
-              </div>
-              <div class="col-md-8">
-                <div class="card-body">
-                  <h5 class="card-title">Isabella Souza</h5>
-                  <p class="card-text"><small class="text-muted">Marketing</small></p>
-                  <p class="card-text">Isabella Souza de Siqueira Camargo is a marketing producer at Sustentabio, where she develops an intelligent strategic plan in order to increase the profits and competitiveness of a business. She started this project at the Instituto Federal de São Paulo campus in Caraguatatuba this year. Isabella in her spare time likes to go to the beach, and on weekends at the gym, she is a very patient and dedicated person with her work, and I guarantee that this work will be amazing.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div> 
-      
     </div>
-    
-  
   </section>
 
 
@@ -184,7 +96,7 @@
                     <a href="../index.php" class="text-dark">Home</a>
                 </li>
                 <li>
-                    <a href="../paginas/sustentabilidade.php" class="text-dark">Sustentabilidade</a>
+                    <a href="../index.php#sust" class="text-dark">Sustentabilidade</a>
                 </li>
                 <li>
                     <a href="../index.php#text1" class="text-dark">Produtos</a>

@@ -37,7 +37,7 @@
           </li>
           
           <li class="nav-item">
-            <a class="nav-link" href="../index.php#sust">Sustentabilidade</a>
+            <a class="nav-link" href="../paginas/sustentabilidade.php">Sustentabilidade</a>
           </li>
           <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -166,7 +166,7 @@
                     <a href="../index.php" class="text-dark">Home</a>
                 </li>
                 <li>
-                    <a href="../index.php#sust" class="text-dark">Sustentabilidade</a>
+                    <a href="../paginas/sustentabilidade.php" class="text-dark">Sustentabilidade</a>
                 </li>
                 <li>
                     <a href="../index.php#text1" class="text-dark">Produtos</a>
@@ -189,6 +189,9 @@
               <ul class="list-unstyled mb-0">
                 <li>
                     <a href="../paginas/about.php" class="text-dark">Equipe Sustentabio</a>
+                </li>
+                <li>
+                    <a href="../paginas/politicas.php" class="text-dark">Políticas</a>
                 </li>
               </ul>
             </div>

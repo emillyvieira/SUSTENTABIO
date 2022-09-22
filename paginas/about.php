@@ -154,9 +154,9 @@
               </div>
               <div class="col-md-8">
                 <div class="card-body">
-                  <h5 class="card-title">Isabella Souza</h5>
+                  <h5 class="card-title">Isabella Souza de Siqueira Camargo</h5>
                   <p class="card-text"><small class="text-muted">Marketing</small></p>
-                  <p class="card-text">Isabella Souza de Siqueira Camargo is a marketing producer at Sustentabio, where she develops an intelligent strategic plan in order to increase the profits and competitiveness of a business. She started this project at the Instituto Federal de São Paulo campus in Caraguatatuba this year. Isabella in her spare time likes to go to the beach, and on weekends at the gym, she is a very patient and dedicated person with her work, and I guarantee that this work will be amazing.</p>
+                  <p class="card-text">Isabella is a marketing producer at Sustentabio, where she develops an intelligent strategic plan in order to increase the profits and competitiveness of a business. She started this project at the Instituto Federal de São Paulo campus in Caraguatatuba this year. Isabella in her spare time likes to go to the beach, and on weekends at the gym, she is a very patient and dedicated person with her work, and I guarantee that this work will be amazing.</p>
                 </div>
               </div>
             </div>

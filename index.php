@@ -6,10 +6,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
     <link href="css/style.css" rel="stylesheet">
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;1,100;1,200;1,300&display=swap');
-      @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
-      @import url('https://fonts.googleapis.com/css2?family=DynaPuff&display=swap');
-      @import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
       @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
     </style>
     <title>SUSTENTABIO</title>
@@ -232,12 +229,13 @@
   <section class="fr">
     <div class="container" id="sust">
       <div class="row">
-        <div class="col-sm-8">
+        <div class="col-md-8">
           <br/>
           <br/>
           <br/>
           <h3>O nosso planeta agradece!</h3>
-          <h5>Vamos juntos. Nossa meta é tornar o mundo um lugar melhor!</h5>
+          <h5>Vamos juntos. <br/>Nossa meta é tornar o mundo um lugar melhor!</h5>
+          <a href="paginas/sustentabilidade.php"><h6>Saiba mais!</h6></a>
         </div>
         <div class="ws col-md-4">
           <h1><img src="img/planet2.gif" height="250" width="cover"></h1>

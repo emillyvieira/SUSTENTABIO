@@ -8,7 +8,7 @@ section.carousel {
 }
 
 body {
-    font-family:'Montserrat', sans-serif;
+    font-family:'Dosis', sans-serif;
     font-weight: bold;
 }
 
@@ -122,4 +122,15 @@ h3 {
 
 .card-body {
     font-family: 'Encode Sans Condensed', sans-serif;
+}
+
+.fr h6 {
+    font-style: italic;
+    text-decoration: underline;
+    color: #d1dcdf;
+}
+
+.sustentabilidade {
+    padding: 40px;
+    font-family: 'Dosis', sans-serif;;
 }

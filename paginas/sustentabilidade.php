@@ -7,9 +7,9 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link href="../css/style.css" rel="stylesheet">
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;1,100;1,200;1,300&display=swap');
       @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
-      @import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Condensed:wght@200&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Condensed:wght@200&display=swap;');
+      @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
     </style>
 
     <title>Copos - SUSTENTABIO</title>
@@ -70,11 +70,34 @@
   </nav>
 
   <section class="sustentabilidade">
-    <h2>Sustentabilidade</h2>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="container">
+                <div>
+                  <h3>Sustentabilidade</h3>
+                  <h5>Empresas como a SUSTENTABIO, procuram promover e expandir o mercado
+                    sustentável por todo país, em busca do equilíbrio entre nós e o planeta Terra. Mas
+                    esse mercado e tal temática ainda sofre da discriminação por falta de
+                    informação/interesse e possibilidades.</br></br>
+                    Segundo o relatório Planeta Vivo (WWF, 2010), a população mundial extrai
+                    anualmente 60 bilhões de toneladas de recursos naturais. Refletindo na situação em
+                    que se encontra atualmente o meio ambiente, com seus recursos naturais se
+                    esgotando. Nesse contexto, percebe-se a configuração de um grave problema em
+                    virtude do excesso de consumismo e do descaso governamental.</br></br>
+                    De acordo com a pesquisa feita pela agência de relações públicas Latam Intersecth-
+                    PR, que opera em toda América Latina, 34,3% da população brasileira dia que usa
+                    produtos no seu dia a dia são indicados por influenciadores. Através dessa pesquisa
+                    é possível comprovar a alta influência que a mídia possui sobre seu público na
+                    compra de produtos muitas vezes desnecessários, produzindo um alto consumismo.</br></br>
+                    O Instituto Chico Mendes de Conservação da Biodiversidade (ICMBIO) aponta que
+                    as políticas públicas implementadas a partir e 2004, sofreram um descaso que
+                    retardou em mais de 80% o combate ao desmatamento. O governo dessa forma
+                    promove um desmonte em relação a toda legislação e fiscalização ambiental.</br></br>
+                    Portanto, é essencial a criação de leis estaduais que isentam impostos das
+                    microempresas que investem no mercado sustentável, como a SUSTENTABIO. A fim
+                    de incentivar os pequenos empreendedores e expandir o mercado sustentável por
+                    todo o Brasil. Ademais, cabe também às ONGs, através das mídias, promoveram
+                    campanhas a fim de conscientizar sobre os riscos do consumismo exagerado.</h5>
                 </div>
             </div>
         </div>

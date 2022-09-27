@@ -7,9 +7,9 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link href="../css/style.css" rel="stylesheet">
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;1,100;1,200;1,300&display=swap');
       @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
       @import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Condensed:wght@200&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
     </style>
 
     <title>Copos - SUSTENTABIO</title>
@@ -70,9 +70,9 @@
   </nav>
 
   <section class="equipe" >
-    <h2 style="padding-left:70px">Equipe SustentaBio</h2>
-    </br>
     <div class="container">
+      <h2 style="">Equipe Sustentabio</h2>
+      </br>
       <div class="row">
         <div class="col-md-6">
           <div class="card mb-3" style="width:700px">
@@ -132,7 +132,7 @@
           <div class="card mb-3" style="width:700px">
             <div class="row g-0 ">
               <div class="col-md-4">
-                <img src="../img/grupo/emilly.jfif"  width="260" height="180" class="img-fluid rounded-start" alt="...">
+                <img src="../img/grupo/emilly.webp"  width="260" height="180" class="img-fluid rounded-start" alt="...">
               </div>
               <div class="col-md-8">
                 <div class="card-body">
@@ -217,7 +217,7 @@
     </div>
   </footer>
 
-  <footer class="text-center text-white" style="background-color:beige;" id="cont">
+  <footer class="rod1 text-center text-white" style="background-color:beige;" id="cont">
   <div class="container pt-4">
     <section class="mb-4">
       <a

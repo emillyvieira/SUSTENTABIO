@@ -20,7 +20,7 @@
     <div class="container">
     <a class="img navbar-brand" href="../index.php"><img src="../img/logo.png" class="d-block w-100" alt=".." width="128" height="128">
       </a>
-      <a class="titlee navbar-brand" href="../index.php">SustentaBio</a>
+      <a class="titlee navbar-brand" href="../index.php">Sustentabio</a>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">

@@ -112,10 +112,16 @@ h3 {
 }
 
 .rod {
-    background-color: rgb(255, 249, 241);
+    background-color: whitesmoke;
 }
 
+.rod2 {
+    background-color: darkgray ;
+}
 
+.rod3 {
+    background-color: dimgray;
+}
 .equipe {
     padding: 40px;
     background-image: url('../img/fundo2.jpg');
@@ -133,5 +139,10 @@ h3 {
 
 .sustentabilidade {
     padding: 40px;
-    font-family: 'Dosis', sans-serif;;
+    background-image: url("../img/fundo2.jpg");
+}
+
+.logo {
+    height: 12px;
+    width: 12px;
 }

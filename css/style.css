@@ -30,7 +30,10 @@ body {
 
 .depoimento{ 
     padding: 30px;
-    
+}
+
+.pol {
+    padding: 70px;
 }
 
 .contato {
@@ -45,20 +48,21 @@ body {
 
 
 h2 {
-
     font-weight: bolder;
     font-family: 'Dancing Script';
 }
 
+h3 {
+    color:#359721;
+    font-weight: bolder;
+}
 
 .rod h5 {
-
     font-weight: bolder;
     font-family: 'Dancing Script';
 }
 
 .bc {
- 
     background-image: url('../img/img/fundd.jpg');
     padding: 30px;
     min-height: 155px;
@@ -105,25 +109,25 @@ div.ws {
     margin-right: auto;
     color: white;
 }
-
-h3 {
-    color:#359721;
-    font-weight: bolder;
+.fr h6 {
+    font-style: italic;
+    text-decoration: underline;
+    color: #d1dcdf;
 }
+
 
 .rod {
     background-color: whitesmoke;
 }
-
 .rod2 {
     background-color: darkgray ;
 }
-
 .rod3 {
     background-color: dimgray;
 }
+
 .equipe {
-    padding: 40px;
+    padding: 70px;
     background-image: url('../img/fundo2.jpg');
 }
 
@@ -131,11 +135,7 @@ h3 {
     font-family: 'Encode Sans Condensed', sans-serif;
 }
 
-.fr h6 {
-    font-style: italic;
-    text-decoration: underline;
-    color: #d1dcdf;
-}
+
 
 .sustentabilidade {
     padding: 40px;

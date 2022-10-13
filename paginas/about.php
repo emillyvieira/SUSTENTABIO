@@ -21,7 +21,7 @@
   <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
-    <a class="img navbar-brand" href="../index.php"><img src="../img/logo.png" class="d-block w-100" alt=".." width="64" height="64">
+    <a class="img navbar-brand" href="../index.php"><img src="../img/logo1.png" class="d-block w-100" alt=".." width="128" height="128">
       </a>
       <a class="titlee navbar-brand" href="../index.php">Sustentabio</a>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -74,7 +74,7 @@
 
   <section class="equipe" >
     <div class="container">
-      <h2 style="">Equipe Sustentabio</h2>
+      <h3>Equipe Sustentabio</h3>
       </br>
       <div class="row">
         <div class="col-md-6">
@@ -178,7 +178,7 @@
     <div class="container p-4">
         <div class="row">
           <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-            <img src="../img/logo.png" height="64" width="64">
+            <img src="../img/logo1.png" height="128" width="128">
           </div>
           <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
             <h5 class="text mb-0">Sustentabio</h5>

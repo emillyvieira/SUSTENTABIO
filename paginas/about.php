@@ -87,7 +87,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Lara Endy da Costa de Sá</h5>
                   <p class="card-text"><small class="text-muted">Manager</small></p>
-                  <p class="card-text">Lara is a Computer Science student at the Federal Institute of Education, Science and Technology of São Paulo - Campus Caraguatatuba. She is currently 17 years old and holds the position of process manager for the SUSTENTABIO website. Passionate about the literary world, she has romance and suspense as her favorite genres. His main goal in adulthood is to attend law school and excel in his professional field, as well as making those he loves proud.</p>
+                  <p class="card-text">Lara is a Computer Science student at the Federal Institute of Education, Science and Technology of São Paulo - Campus Caraguatatuba. She is currently 17 years old and holds the position of process manager for the SUSTENTABIO website. Passionate about the literary world, she has romance and suspense as her favorite genres. Her main goal in adulthood is to attend law school and excel in her professional field, as well as making those he loves proud.</p>
                 </div>
               </div>
             </div>
@@ -105,7 +105,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Barbara Coutinho Soares</h5>
                   <p class="card-text"><small class="text-muted">Accounting Finance</small></p>
-                  <p class="card-text">Barbara is a third-year student of the IT technical course integrated into high school at the Federal Institute of São Paulo - Campus Caraguatatuba. She is currently 17 years old and works with accounting finance at the company SUSTENTABIO. Barbara thinks of big plans for the future with personal and professional achievements. She loves spending her free time with her family and friends, especially playing basketball and volleyball.</p>
+                  <p class="card-text">Barbara is a third-year student of the IT vocational course and high school at the Federal Institute of São Paulo - Campus Caraguatatuba. She is currently 17 years old and she works with accounting finance at the company SUSTENTABIO. Barbara thinks of big plans for the future with personal and professional achievements. She loves spending her free time with her family and friends, especially playing basketball and volleyball.</p>
                 </div>
               </div>
             </div>
@@ -123,7 +123,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Dyamine de Oliveira Gonzales</h5>
                   <p class="card-text"><small class="text-muted">Marketing</small></p>
-                  <p class="card-text">Dyamine is the marketing producer for Sustentabio, who has been in this project since the beginning of 2022, studied at the Federal Institute of São Paulo, and it was there that this whole project started, she is a patient and hardworking person with this project.</p>
+                  <p class="card-text">Dyamine is the marketing producer for Sustentabio, who has been in this project since the beginning of 2022, studied at the Federal Institute of São Paulo, and it was there that this whole project started, she is a patient and hardworking person with this project. She guarantees this work is amazing.</p>
                 </div>
               </div>
             </div>
@@ -141,7 +141,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Emilly S. Vieira Santana</h5>
                   <p class="card-text"><small class="text-muted">DEV</small></p>
-                  <p class="card-text">Emilly Vieira is a student at the Federal Institute of São Paulo. In this project, her function is to be the director of programming, taking care of the creation of our site, called Sustentabio. She loves design and, for this reason, she worked hard to make our project come true.</p>
+                  <p class="card-text">Emilly Vieira is a student at the Federal Institute of São Paulo. In this project, her function is to be the director of programming, taking care of the creation of our site, called Sustentabio. She loves design and, for this reason, she worked hard to make our project come true. Emilly is 17 years old and intends to follow the technology area, especially system interfaces and front-end development.</p>
                 </div>
               </div>
             </div>
@@ -159,7 +159,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Isabella Souza de Siqueira Camargo</h5>
                   <p class="card-text"><small class="text-muted">Marketing</small></p>
-                  <p class="card-text">Isabella is a marketing producer at Sustentabio, where she develops an intelligent strategic plan in order to increase the profits and competitiveness of a business. She started this project at the Instituto Federal de São Paulo campus in Caraguatatuba this year. Isabella in her spare time likes to go to the beach, and on weekends at the gym, she is a very patient and dedicated person with her work, and I guarantee that this work will be amazing.</p>
+                  <p class="card-text">Isabella is a marketing producer at Sustentabio, where she develops an intelligent strategic plan in order to increase the profits and competitiveness of a business. She started this project at the Instituto Federal de São Paulo campus in Caraguatatuba this year. Isabella in her spare time likes to go to the beach, and on weekends at the gym, she is a very patient and dedicated person with her work, and she guarantee that this work will be amazing.</p>
                 </div>
               </div>
             </div>

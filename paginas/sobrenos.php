@@ -15,7 +15,7 @@
       @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
     </style>
 
-    <title>About Us - SUSTENTABIO</title>
+    <title>Sobre Nós - SUSTENTABIO</title>
   </head>
 
   <body>
@@ -33,44 +33,44 @@
           </li>
           
           <li class="nav-item">
-            <a class="nav-link" href="../paginas/about.php">About Us</a>
+            <a class="nav-link" href="../paginas/about.php">Sobre Nós</a>
           </li>
           
           <li class="nav-item">
-            <a class="nav-link" href="../index.php#text1">Products</a>
+            <a class="nav-link" href="../index.php#text1">Produtos</a>
           </li>
           
           <li class="nav-item">
-            <a class="nav-link" href="../paginas/sustentabilidade.php">Sustainability</a>
+            <a class="nav-link" href="../paginas/sustentabilidade.php">Sustentabilidade</a>
           </li>
 
           
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Contacts</a>
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Contato</a>
             <ul class="dropdown-menu">
               <li>
-                <a class="dropdown-item" href="#">Buy by Phone<br/>
+                <a class="dropdown-item" href="#">Compre por Telefone<br/>
                   <h6><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-telephone" viewBox="0 0 16 16"><path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.568 17.568 0 0 0 4.168 6.608 17.569 17.569 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.678.678 0 0 0-.58-.122l-2.19.547a1.745 1.745 0 0 1-1.657-.459L5.482 8.062a1.745 1.745 0 0 1-.46-1.657l.548-2.19a.678.678 0 0 0-.122-.58L3.654 1.328zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z"/></svg> 12 99999-9999</h6>
                 </a>
               </li>
               <li><hr class="dropdown-divider"></li>
               <li>
-                <a class="dropdown-item" href="#">We're on WhatsApp<br/>
+                <a class="dropdown-item" href="#">Estamos no WhatsApp<br/>
                   <h6><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-whatsapp" viewBox="0 0 16 16" color="green"><path d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z"/></svg> 12 99999-9999</h6>
                 </a>
               </li>
             </ul>
 
           <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Language</a>
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Idioma</a>
             <ul class="dropdown-menu">
               <li>
-                <a class="dropdown-item" href="../paginas/sobrenos.php">Português<br/>
+                <a class="dropdown-item" href="../paginas/sobrenos.php" style="background-color: #359721; color:white;">Português<br/>
                 </a>
               </li>
               <li><hr class="dropdown-divider"></li>
               <li>
-                <a class="dropdown-item ative" href="../paginas/about.php" aria-current="true" style="background-color: #359721; color:white; ">English<br/>
+                <a class="dropdown-item ative" href="../paginas/about.php" aria-current="true">English<br/>
                 </a>
               </li>
             </ul>
@@ -93,9 +93,9 @@
       <div class="card">
         <div class="col-md-12">
           <div class="card-body" style="">
-            <h3 class="card-title">About Us</h3>
-            <medium class>The mission and vision of our company</medium>
-            <h4>Our goal is to be able to expand the sustainable market, since sustainability is important to preserve the resources of the planet, so that their use does not lead to their depletion. Our vision over time is to expand our company throughout the country and encourage the growing use of sustainable products. </h4>
+            <h3 class="card-title">Sobre Nós</h3>
+            <medium class>A missão e visão da nossa empresa</medium>
+            <h4>O nosso objetivo é ser capaz de expandir o mercado sustentável, uma vez que a sustentabilidade é importante para preservar os recursos do planeta, para que a sua utilização não resulte no seu esgotamento. A nossa visão ao longo do tempo é expandir a nossa empresa por todo o país e encorajar a crescente utilização de produtos sustentáveis.</h4>
           </div>
         </div>
       </div>
@@ -110,8 +110,8 @@
               <div class="col-md-8">
                 <div class="card-body">
                   <h5 class="card-title">Lara Endy da Costa de Sá</h5>
-                  <p class="card-text"><small class="text-muted">Manager</small></p>
-                  <p class="card-text">Lara is a Computer Science student at the Federal Institute of Education, Science and Technology of São Paulo - Campus Caraguatatuba. She is currently 17 years old and holds the position of process manager for the SUSTENTABIO website. Passionate about the literary world, she has romance and suspense as her favorite genres. Her main goal in adulthood is to attend law school and excel in her professional field, as well as making those he loves proud.</p>
+                  <p class="card-text"><small class="text-muted">Gerente</small></p>
+                  <p class="card-text">Lara é estudante de Informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus de Caraguatatuba. Ela tem atualmente 17 anos de idade e ocupa o cargo de gerente de processos para o website da SUSTENTABIO. Apaixonada pelo mundo literário, tem o romance e o suspense como os seus géneros preferidos. O seu principal objetivo na vida adulta é cursar Direito e destacar-se na sua área profissional, assim como fazer com que aqueles que ela ama se sintam orgulhosos.</p>
                 </div>
               </div>
             </div>
@@ -128,8 +128,8 @@
               <div class="col-md-8">
                 <div class="card-body">
                   <h5 class="card-title">Barbara Coutinho Soares</h5>
-                  <p class="card-text"><small class="text-muted">Accounting Finance</small></p>
-                  <p class="card-text">Barbara is a third-year student of the IT vocational course and high school at the Federal Institute of São Paulo - Campus Caraguatatuba. She is currently 17 years old and she works with accounting finance at the company SUSTENTABIO. Barbara thinks of big plans for the future with personal and professional achievements. She loves spending her free time with her family and friends, especially playing basketball and volleyball.</p>
+                  <p class="card-text"><small class="text-muted">Contabilidade Financeira</small></p>
+                  <p class="card-text">Barbara é aluna do terceiro ano do curso técnico de informática e do ensino médio do Instituto Federal de São Paulo - Campus de Caraguatatuba. Tem atualmente 17 anos e trabalha com contabilidade financeira na empresa SUSTENTABIO. Bárbara tem grandes planos para o futuro com realizações pessoais e profissionais. Ela adora passar o seu tempo livre com a sua família e amigos, especialmente jogando basquetebol e voleibol.</p>
                 </div>
               </div>
             </div>
@@ -147,7 +147,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Dyamine de Oliveira Gonzales</h5>
                   <p class="card-text"><small class="text-muted">Marketing</small></p>
-                  <p class="card-text">Dyamine is the marketing producer for Sustentabio, who has been in this project since the beginning of 2022, studies at the Federal Institute of São Paulo, and it was there that this whole project started, she is a patient and hardworking person with this project. She guarantees this work is amazing.</p>
+                  <p class="card-text">A Dyamine é a produtora de marketing da Sustentabio, que está neste projecto desde o início de 2022, ela estuda no Instituto Federal de São Paulo, e foi aí que todo este projeto começou, ela tem sido paciente e esforçada ao longo deste projeto. Ela garante-nos que este trabalho é maravilhoso.</p>
                 </div>
               </div>
             </div>
@@ -164,8 +164,8 @@
               <div class="col-md-8">
                 <div class="card-body">
                   <h5 class="card-title">Emilly S. Vieira Santana</h5>
-                  <p class="card-text"><small class="text-muted">Full-stack Developer</small></p>
-                  <p class="card-text">Emilly Vieira is a student at the Federal Institute of São Paulo. In this project, her function is to be the director of programming, taking care of the creation of our site, called Sustentabio. She loves design and, for this reason, she worked hard to make our project come true. Emilly is 17 years old and intends to follow the technology area, especially system interfaces and full-stack development.</p>
+                  <p class="card-text"><small class="text-muted">Desenvolvedora Full-stack</small></p>
+                  <p class="card-text">Emilly Vieira é estudante no Instituto Federal de São Paulo. Neste projeto, a sua função é ser a diretora de programação, cuidando da criação do nosso site, chamado Sustentabio. Ela adora design e, por esta razão, trabalhou muito para tornar o nosso projeto uma realidade. Emilly tem 17 anos e pretende seguir a área tecnológica, especialmente interfaces de sistemas e desenvolvimento full-stack.</p>
                 </div>
               </div>
             </div>
@@ -183,13 +183,13 @@
                 <div class="card-body">
                   <h5 class="card-title">Isabella Souza de Siqueira Camargo</h5>
                   <p class="card-text"><small class="text-muted">Marketing</small></p>
-                  <p class="card-text">Isabella is marketing producer at Sustentabio, where she develops an intelligent strategic plan in order to increase the profits and competitiveness of a business. She started this project at the Instituto Federal de São Paulo campus in Caraguatatuba this year. Isabella in her spare time likes to go to the beach, and on weekends at the gym, she is a very patient and dedicated person with her work, and she guarantee that this work will be amazing.</p>
+                  <p class="card-text">Isabella é produtora de marketing na Sustentabio, onde desenvolve um plano estratégico inteligente a fim de aumentar os lucros e a competitividade da empresa. Iniciou este projeto no campus do Instituto Federal de São Paulo, em Caraguatatuba, este ano. Isabella no seu tempo livre gosta de ir à praia, e nos finais de semana na academia, é uma pessoa muito paciente e dedicada com o seu trabalho, e garante um trabalho surpreendente.</p>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </div>
+      </div> 
     </div>
   </section>
 
@@ -208,15 +208,15 @@
                     <a href="../index.php" class="text-dark">Home</a>
                 </li>
                 <li>
-                    <a href="../paginas/sustentabilidade.php" class="text-dark">Sustainability</a>
+                    <a href="../paginas/sustentabilidade.php" class="text-dark">Sustentabilidade</a>
                 </li>
                 <li>
-                    <a href="../index.php#text1" class="text-dark">Products</a>
+                    <a href="../index.php#text1" class="text-dark">Produtos</a>
                 </li>  
               </ul>
             </div>
             <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-              <h5 class="text mb-0">Contacts</h5>
+              <h5 class="text mb-0">Contato</h5>
               <ul class="list-unstyled">
                 <li>
                     <a class="text-dark">sustentabio@gmail.com</a>
@@ -230,10 +230,10 @@
               <h5 class="text">Sobre Nós</h5>
               <ul class="list-unstyled mb-0">
                 <li>
-                    <a href="../paginas/about.php" class="text-dark">Sustentabio Team</a>
+                    <a href="../paginas/about.php" class="text-dark">Equipe Sustentabio</a>
                 </li>
                 <li>
-                    <a href="../paginas/politicas.php" class="text-dark">Politics</a>
+                    <a href="../paginas/politicas.php" class="text-dark">Políticas</a>
                 </li>
               </ul>
             </div>
@@ -296,7 +296,7 @@
   </div>
 </footer>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
 
   </body>
 </html>

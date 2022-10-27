@@ -71,12 +71,12 @@
     </div>
   </nav>
 
-  <section class="bc text-center style">
+  <section class="text-center style">
     <br/>
     <h2>Copos</h2>
   </section>
 
-  <section class="depoimento text-center style" style="padding">
+  <section class="depoimento text-center style">
     <div class="container">
       <div class="row">
         <div class="col-md-3">
@@ -109,7 +109,7 @@
         <div class="col-md-3">
           <h3><img src="../img/img/copos/01.jpeg" class="d-block w-100" width="130" height="230">
           </h3>
-          <h4 id="fontt">Copo 550ml Branco com Estampa</h4>
+          <h4>Copo 550ml Branco com Estampa</h4>
           <h5>20 Unidades</h5>
           <h3>R$ 24,50</h3>
           <br/>
@@ -154,13 +154,11 @@
     </div>
   </section>
 
-
-
   <footer class="rod text-center text-lg-start">
     <div class="container p-4">
         <div class="row">
           <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-            <img src="../img/logo.png" height="64" width="64">
+            <img src="../img/logo1.png" height="128px" width="128px">
           </div>
           <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
             <h5 class="text mb-0">Sustentabio</h5>

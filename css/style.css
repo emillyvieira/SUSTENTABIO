@@ -90,6 +90,12 @@ h3 {
     border: white;
 }
 
+.btn-ops:active {
+    background-color: #10454f;
+    color: white;
+    border: white;
+}
+
 a {
     color:#10454f;
     text-decoration: none;
@@ -145,4 +151,4 @@ div.ws {
 .logo {
     height: 12px;
     width: 12px;
-}
+} 
